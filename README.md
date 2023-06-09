@@ -1,3 +1,3 @@
 # File Metadata Microservice
 
-This is the boilerplate for the File Metadata Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice
+Metadata is information stored in almost any type of file. It can include your name, your company or organization's name, the name of your computer, the name of the network server or drive where you saved the file, personalized comments and the names and times of previous document authors, revisions, or versions. For the current project you will get the details of file like filename, type, and size  of the file...
